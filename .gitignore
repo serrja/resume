@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+*.pdf
+*.docx
+*.sqlite*
+*.db
+*.zip
+*.bak
+scratch/
+outputs/
+backups/
